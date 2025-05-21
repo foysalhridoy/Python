@@ -58,8 +58,6 @@ Python/
 ├── data_projects/
 └── README.md
 
----
-
 🤝 Contribution
 Feel free to fork, open issues, or submit PRs. Let’s grow together!
 
@@ -69,11 +67,6 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 🙌 Stay Connected
 If you like this repository, don’t forget to ⭐ it and follow me on GitHub.
 
----
-
-
----
-
 ### 🎞️ About the GIF
 
 To add the GIF (`assets/python_projects_demo.gif`):
@@ -82,7 +75,5 @@ To add the GIF (`assets/python_projects_demo.gif`):
 2. Convert it into a `.gif` using any online tool (e.g., ScreenToGif or ezgif.com).
 3. Save it as `python_projects_demo.gif` inside a folder named `assets` in your repo.
 4. It will show automatically using the markdown.
-
----
 
 
