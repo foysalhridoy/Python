@@ -1,6 +1,5 @@
 import tkinter as tk
 import random
-
 # --------------------
 # Game Setup
 # --------------------
